@@ -19,18 +19,18 @@ My name is Gaël. I work as a reseach scientist at the Massachusetts Institute o
 
 Things I have designed and / or contributed to most recently include:
 
-- [JuliaClimate Notebooks](https://github.com/JuliaClimate/GlobalOceanNotebooks) : Global Ocean & Climate notebooks [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/GlobalOceanNotebooks)](https://GitHub.com/JuliaClimate/GlobalOceanNotebooks/stargazers/)
-- [ClimateModels.jl](https://github.com/gaelforget/ClimateModels.jl) : uniform interface to climate models of varying complexity and completeness [![GitHub stars](https://badgen.net/github/stars/gaelforget/ClimateModels.jl)](https://GitHub.com/gaelforget/ClimateModels.jl/stargazers/)
-- [MeshArrays.jl](https://github.com/JuliaClimate/MeshArrays.jl) : gridded Earth variables, domain decomposition, and C-grid support [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/MeshArrays.jl)](https://GitHub.com/JuliaClimate/MeshArrays.jl/stargazers/)
-- [MITgcmTools.jl](https://github.com/gaelforget/MITgcmTools.jl) : framework to interact with MITgcm (setup, run, output, plot, etc) [![GitHub stars](https://badgen.net/github/stars/gaelforget/MITgcmTools.jl)](https://GitHub.com/gaelforget/MITgcmTools.jl/stargazers/)
-- [IndividualDisplacements.jl](https://github.com/JuliaClimate/IndividualDisplacements.jl) : trajectory simulations for point particles in Ocean, Atmosphere, etc [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/IndividualDisplacements.jl)](https://GitHub.com/JuliaClimate/IndividualDisplacements.jl/stargazers/)
-- [PlanktonIndividuals.jl](https://github.com/JuliaOcean/PlanktonIndividuals.jl) : simulate the behaviors of an ensemble of phytoplankton individuals [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/PlanktonIndividuals.jl)](https://GitHub.com/JuliaOcean/PlanktonIndividuals.jl/stargazers/)
+- [JuliaClimate Notebooks](https://juliaclimate.github.io/GlobalOceanNotebooks/) : Global Ocean & Climate notebooks [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/GlobalOceanNotebooks)](https://GitHub.com/JuliaClimate/GlobalOceanNotebooks/stargazers/)
+- [ClimateModels.jl](https://gaelforget.github.io/ClimateModels.jl/dev/) : uniform interface to climate models of varying complexity and completeness [![GitHub stars](https://badgen.net/github/stars/gaelforget/ClimateModels.jl)](https://GitHub.com/gaelforget/ClimateModels.jl/stargazers/)
+- [MeshArrays.jl](https://juliaclimate.github.io/MeshArrays.jl/dev/) : gridded Earth variables, domain decomposition, and C-grid support [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/MeshArrays.jl)](https://GitHub.com/JuliaClimate/MeshArrays.jl/stargazers/)
+- [MITgcmTools.jl](https://gaelforget.github.io/MITgcmTools.jl/dev/) : framework to interact with MITgcm (setup, run, output, plot, etc) [![GitHub stars](https://badgen.net/github/stars/gaelforget/MITgcmTools.jl)](https://GitHub.com/gaelforget/MITgcmTools.jl/stargazers/)
+- [IndividualDisplacements.jl](https://juliaclimate.github.io/IndividualDisplacements.jl/dev/) : trajectory simulations for point particles in Ocean, Atmosphere, etc [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/IndividualDisplacements.jl)](https://GitHub.com/JuliaClimate/IndividualDisplacements.jl/stargazers/)
+- [PlanktonIndividuals.jl](https://juliaocean.github.io/PlanktonIndividuals.jl/dev/) : simulate the behaviors of an ensemble of phytoplankton individuals [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/PlanktonIndividuals.jl)](https://GitHub.com/JuliaOcean/PlanktonIndividuals.jl/stargazers/)
 
 ### More MITgcm & ECCO
 
-- [MITgcm](https://github.com/MITgcm/MITgcm) : M.I.T General Circulation Model master code and documentation repository [![GitHub stars](https://badgen.net/github/stars/MITgcm/MITgcm)](https://GitHub.com/MITgcm/MITgcm/stargazers/)
-- [gcmfaces](https://github.com/MITgcm/gcmfaces) : Matlab / Octave toolbox that handles gridded earth variables in generic fashion [![GitHub stars](https://badgen.net/github/stars/MITgcm/gcmfaces)](https://GitHub.com/MITgcm/gcmfaces/stargazers/)
-- [ECCOv4](https://github.com/gaelforget/ECCOv4) : Ocean state estimation framework, and model configuration [![GitHub stars](https://badgen.net/github/stars/gaelforget/ECCOv4)](https://GitHub.com/gaelforget/ECCOv4/stargazers/)
+- [MITgcm](http://mitgcm.readthedocs.io/en/latest/?badge=latest) : M.I.T General Circulation Model master code and documentation repository [![GitHub stars](https://badgen.net/github/stars/MITgcm/MITgcm)](https://GitHub.com/MITgcm/MITgcm/stargazers/)
+- [gcmfaces](http://gcmfaces.readthedocs.io/en/latest/) : Matlab / Octave toolbox that handles gridded earth variables in generic fashion [![GitHub stars](https://badgen.net/github/stars/MITgcm/gcmfaces)](https://GitHub.com/MITgcm/gcmfaces/stargazers/)
+- [ECCOv4](http://eccov4.readthedocs.io/) : Ocean state estimation framework, and model configuration [![GitHub stars](https://badgen.net/github/stars/gaelforget/ECCOv4)](https://GitHub.com/gaelforget/ECCOv4/stargazers/)
 
 ### more Julia : workshops and tutorials
 

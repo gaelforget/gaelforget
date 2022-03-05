@@ -19,7 +19,7 @@ My name is Gaël. I work as a reseach scientist at the Massachusetts Institute o
 
 Things I have designed and / or contributed to most recently include:
 
-- [JuliaClimate Notebooks](https://juliaclimate.github.io/GlobalOceanNotebooks/) : Global Ocean & Climate notebooks [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/GlobalOceanNotebooks)](https://GitHub.com/JuliaClimate/GlobalOceanNotebooks/stargazers/)
+- [JuliaClimate Notebooks](https://juliaclimate.github.io/Notebooks/) : Climate and Ocean notebooks [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/GlobalOceanNotebooks)](https://GitHub.com/JuliaClimate/GlobalOceanNotebooks/stargazers/)
 - [ClimateModels.jl](https://gaelforget.github.io/ClimateModels.jl/dev/) : uniform interface to climate models of varying complexity and completeness [![GitHub stars](https://badgen.net/github/stars/gaelforget/ClimateModels.jl)](https://GitHub.com/gaelforget/ClimateModels.jl/stargazers/)
 - [MeshArrays.jl](https://juliaclimate.github.io/MeshArrays.jl/dev/) : gridded Earth variables, domain decomposition, and C-grid support [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/MeshArrays.jl)](https://GitHub.com/JuliaClimate/MeshArrays.jl/stargazers/)
 - [MITgcmTools.jl](https://gaelforget.github.io/MITgcmTools.jl/dev/) : framework to interact with MITgcm (setup, run, output, plot, etc) [![GitHub stars](https://badgen.net/github/stars/gaelforget/MITgcmTools.jl)](https://GitHub.com/gaelforget/MITgcmTools.jl/stargazers/)

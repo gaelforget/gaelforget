@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Gaël. I work as a reseach scientist at the Massachusetts Institute of Technology (MIT) where I investigate oceanography and climate. For my published work, please refer to [google scholar](https://scholar.google.com/citations?user=QIWIDPMAAAAJ&hl=en) and [gaelforget.net](http://gaelforget.net). This page focuses on software and data products.
+My name is Gaël. I work as a reseach scientist at the Massachusetts Institute of Technology (MIT) where I investigate Oceans and Climate. For my published research work, please refer to [google scholar](https://scholar.google.com/citations?user=QIWIDPMAAAAJ&hl=en) and [gaelforget.net](http://gaelforget.net). This page focuses on software and data products.
 
 Open science projects that I have recently designed or contributed to are listed below.
 
@@ -23,9 +23,9 @@ Open science projects that I have recently designed or contributed to are listed
 |:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
 | <img src="https://github.com/JuliaClimate/meta/raw/master/docs/juliaclimatelogo.png" width="50" height="50"> | <img src="https://user-images.githubusercontent.com/20276764/143275888-ff02f149-225f-45ac-ae5e-1049e15ab215.png" width="100" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143275851-c165be3b-ca6e-44ab-bcd0-3598c04f2ab6.png" width="100" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143279553-41c0a2b7-081f-42f9-b285-c4166b81770e.png" width="100" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143278660-3dc6dbdf-e037-4de8-a976-d0a5a1b48e14.png" width="100" height="100"> | <img src="https://github.com/JuliaClimate/meta/raw/master/docs/juliaclimatelogo.png" width="50" height="50">
 
-_(plots from [this notebook](https://gaelforget.github.io/ClimateModels.jl/dev/examples/IPCC.html); visit <https://interactive-atlas.ipcc.ch> for more on the science behind these)_
+_These graphs are from [this notebook](https://gaelforget.github.io/ClimateModels.jl/dev/examples/IPCC.html); visit <https://interactive-atlas.ipcc.ch> for more on the science behind them._
 
-## Try Out Notebooks
+## Try Notebooks
 
 - [JuliaClimate Notebooks](https://juliaclimate.github.io/Notebooks/) : Climate and Ocean notebooks [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/GlobalOceanNotebooks)](https://GitHub.com/JuliaClimate/GlobalOceanNotebooks/stargazers/)
 - JuliaClimate Notebooks [Binder](https://gesis.mybinder.org/v2/gh/JuliaClimate/Notebooks/HEAD?urlpath=lab) : open science cloud (free) [![Binder](https://mybinder.org/badge_logo.svg)](https://gesis.mybinder.org/v2/gh/JuliaClimate/Notebooks/HEAD?urlpath=lab)
@@ -45,11 +45,11 @@ _(plots from [this notebook](https://gaelforget.github.io/ClimateModels.jl/dev/e
 - [IndividualDisplacements.jl](https://juliaclimate.github.io/IndividualDisplacements.jl/dev/) : trajectory simulations for point particles in Ocean, Atmosphere, etc [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/IndividualDisplacements.jl)](https://GitHub.com/JuliaClimate/IndividualDisplacements.jl/stargazers/)
 - [PlanktonIndividuals.jl](https://juliaocean.github.io/PlanktonIndividuals.jl/dev/) : simulate the behaviors of an ensemble of phytoplankton individuals [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/PlanktonIndividuals.jl)](https://GitHub.com/JuliaOcean/PlanktonIndividuals.jl/stargazers/)
 
-### Modeling (MITgcm, ECCO)
+### Modeling (Other)
 
 - [MITgcm](http://mitgcm.readthedocs.io/en/latest/?badge=latest) : _M.I.T. general circulation model_ master code and documentation [![GitHub stars](https://badgen.net/github/stars/MITgcm/MITgcm)](https://GitHub.com/MITgcm/MITgcm/stargazers/)
-- [gcmfaces](http://gcmfaces.readthedocs.io/en/latest/) : _Matlab_ / _Octave_ toolbox that handles gridded Earth variables in generic fashion [![GitHub stars](https://badgen.net/github/stars/MITgcm/gcmfaces)](https://GitHub.com/MITgcm/gcmfaces/stargazers/)
 - [ECCOv4](http://eccov4.readthedocs.io/) : Ocean state estimation framework, and model configuration [![GitHub stars](https://badgen.net/github/stars/gaelforget/ECCOv4)](https://GitHub.com/gaelforget/ECCOv4/stargazers/)
+- [gcmfaces](http://gcmfaces.readthedocs.io/en/latest/) : _Matlab_ / _Octave_ toolbox that handles gridded Earth variables in generic fashion [![GitHub stars](https://badgen.net/github/stars/MITgcm/gcmfaces)](https://GitHub.com/MITgcm/gcmfaces/stargazers/)
 
 ### Workshops and Tutorials
 

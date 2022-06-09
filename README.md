@@ -22,7 +22,7 @@ Things I have designed and / or contributed to most recently include:
 ## Try the Notebooks
 
 - [JuliaClimate Notebooks](https://juliaclimate.github.io/Notebooks/) : Climate and Ocean notebooks [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/GlobalOceanNotebooks)](https://GitHub.com/JuliaClimate/GlobalOceanNotebooks/stargazers/)
-- [Binder](https://mybinder.org/badge_logo.svg)](https://gesis.mybinder.org/v2/gh/JuliaClimate/Notebooks/HEAD?urlpath=lab) : open science cloud instance (free).
+- [Binder](https://gesis.mybinder.org/v2/gh/JuliaClimate/Notebooks/HEAD?urlpath=lab) : open science cloud instance (free).
 
 ## Observations (Julia)
 

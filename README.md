@@ -45,19 +45,19 @@ _These graphs are from [this notebook](https://gaelforget.github.io/ClimateModel
 - [IndividualDisplacements.jl](https://juliaclimate.github.io/IndividualDisplacements.jl/dev/) : trajectory simulations for point particles in Ocean, Atmosphere, etc [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/IndividualDisplacements.jl)](https://GitHub.com/JuliaClimate/IndividualDisplacements.jl/stargazers/)
 - [PlanktonIndividuals.jl](https://juliaocean.github.io/PlanktonIndividuals.jl/dev/) : simulate the behaviors of an ensemble of phytoplankton individuals [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/PlanktonIndividuals.jl)](https://GitHub.com/JuliaOcean/PlanktonIndividuals.jl/stargazers/)
 
-### Modeling (Other)
+## Modeling (Other)
 
 - [MITgcm](http://mitgcm.readthedocs.io/en/latest/?badge=latest) : _M.I.T. general circulation model_ master code and documentation [![GitHub stars](https://badgen.net/github/stars/MITgcm/MITgcm)](https://GitHub.com/MITgcm/MITgcm/stargazers/)
 - [ECCOv4](http://eccov4.readthedocs.io/) : Ocean state estimation framework, and model configuration [![GitHub stars](https://badgen.net/github/stars/gaelforget/ECCOv4)](https://GitHub.com/gaelforget/ECCOv4/stargazers/)
 - [gcmfaces](http://gcmfaces.readthedocs.io/en/latest/) : _Matlab_ / _Octave_ toolbox that handles gridded Earth variables in generic fashion [![GitHub stars](https://badgen.net/github/stars/MITgcm/gcmfaces)](https://GitHub.com/MITgcm/gcmfaces/stargazers/)
 
-### Workshops and Tutorials
+## Workshops and Tutorials
 
 - [JuliaOceanSciencesMeeting2020](https://github.com/JuliaOcean/JuliaOceanSciencesMeeting2020) workshop : Julia users and tools for oceanography (OSM20 workshop)  [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/JuliaOceanSciencesMeeting2020)](https://GitHub.com/JuliaOcean/JuliaOceanSciencesMeeting2020/stargazers/)
 - [MarineEcosystemsJuliaCon2021](https://github.com/JuliaOcean/MarineEcosystemsJuliaCon2021.jl) workshop : modeling marine ecosystems at multiple scales using Julia (JuliaCon21 workshop) [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/MarineEcosystemsJuliaCon2021.jl)](https://GitHub.com/JuliaOcean/MarineEcosystemsJuliaCon2021.jl/stargazers/)
 - [MarineEcosystemNotebooks](https://github.com/JuliaOcean/MarineEcosystemNotebooks) : marine ecosystem observations and models [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/MarineEcosystemNotebooks)](https://GitHub.com/JuliaOcean/MarineEcosystemNotebooks/stargazers/)
 
-### Various
+## Various
 
 - [TheNumberLine.jl](https://gaelforget.github.io/TheNumberLine.jl/dev/) : K-12 teaching collaborative project. The number line is a common teaching tool in e.g. K-12 math classes accross the U.S.
 - [AirSeaFluxes.jl](https://github.com/JuliaOcean/AirSeaFluxes.jl) : computation and analysis of air-sea fluxes [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/AirSeaFluxes.jl)](https://GitHub.com/JuliaOcean/AirSeaFluxes.jl/stargazers/)

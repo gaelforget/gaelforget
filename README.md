@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Gaël. I work as a reseach scientist at the Massachusetts Institute of Technology (MIT) where I investigate oceanography and climate. For my published work, please refer to [google scholar](https://scholar.google.com/citations?user=QIWIDPMAAAAJ&hl=en) and [gaelforget.net](http://gaelforget.net). The list provided below focuses on software, model, and data products.
+My name is Gaël. I work as a reseach scientist at the Massachusetts Institute of Technology (MIT) where I investigate oceanography and climate. For my published work, please refer to [google scholar](https://scholar.google.com/citations?user=QIWIDPMAAAAJ&hl=en) and [gaelforget.net](http://gaelforget.net). This page focuses on software and data products.
 
-Software projects that I have recently designed or contributed to are listed below.
+Open science projects that I have recently designed or contributed to are listed below.
 
 | | History | +1C | +2C | +4C | |
 |:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|

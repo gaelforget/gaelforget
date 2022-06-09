@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 
 My name is Gaël. I work as a reseach scientist at the Massachusetts Institute of Technology (MIT) where I investigate oceanography and climate. For my published work, please refer to [google scholar](https://scholar.google.com/citations?user=QIWIDPMAAAAJ&hl=en) and [gaelforget.net](http://gaelforget.net). The list provided below focuses on software, model, and data products.
 
+| | History | +1C | +2C | +4C | |
+|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
+| <img src="https://github.com/JuliaClimate/meta/raw/master/docs/juliaclimatelogo.png" width="50" height="50"> | <img src="https://user-images.githubusercontent.com/20276764/143275888-ff02f149-225f-45ac-ae5e-1049e15ab215.png" width="100" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143275851-c165be3b-ca6e-44ab-bcd0-3598c04f2ab6.png" width="100" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143279553-41c0a2b7-081f-42f9-b285-c4166b81770e.png" width="100" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143278660-3dc6dbdf-e037-4de8-a976-d0a5a1b48e14.png" width="100" height="100"> | <img src="https://github.com/JuliaClimate/meta/raw/master/docs/juliaclimatelogo.png" width="50" height="50">
+
+_(plots from [this notebook](https://gaelforget.github.io/ClimateModels.jl/dev/examples/IPCC.html); visit <https://interactive-atlas.ipcc.ch> for more on the science behind these)_
+
 Things I have designed and / or contributed to most recently include:
 
 ## Try Out Notebooks
@@ -55,9 +61,3 @@ Things I have designed and / or contributed to most recently include:
 
 - [AirSeaFluxes.jl](https://github.com/JuliaOcean/AirSeaFluxes.jl) : computation and analysis of air-sea fluxes [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/AirSeaFluxes.jl)](https://GitHub.com/JuliaOcean/AirSeaFluxes.jl/stargazers/)
 - [NCTiles.jl](https://github.com/gaelforget/NCTiles.jl) : NetCDF support for climate model output and domain decompositions  [![GitHub stars](https://badgen.net/github/stars/gaelforget/NCTiles.jl)](https://GitHub.com/gaelforget/NCTiles.jl/stargazers/)
-
-| | History | +1C | +2C | +4C | |
-|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
-| <img src="https://github.com/JuliaClimate/meta/raw/master/docs/juliaclimatelogo.png" width="50" height="50"> | <img src="https://user-images.githubusercontent.com/20276764/143275888-ff02f149-225f-45ac-ae5e-1049e15ab215.png" width="100" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143275851-c165be3b-ca6e-44ab-bcd0-3598c04f2ab6.png" width="100" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143279553-41c0a2b7-081f-42f9-b285-c4166b81770e.png" width="100" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143278660-3dc6dbdf-e037-4de8-a976-d0a5a1b48e14.png" width="100" height="100"> | <img src="https://github.com/JuliaClimate/meta/raw/master/docs/juliaclimatelogo.png" width="50" height="50">
-
-_(please visit <https://interactive-atlas.ipcc.ch> for more on the science behind these maps)_

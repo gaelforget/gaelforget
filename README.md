@@ -4,7 +4,7 @@
 commenting out 🔭 🌱 👯 🤔 💬 📫 😄 ⚡
 -->
 
-My name is Gaël. I work as a reseach scientist at the Massachusetts Institute of Technology (MIT) where I investigate Oceans and Climate. For my published research work, please refer to [google scholar](https://scholar.google.com/citations?user=QIWIDPMAAAAJ&hl=en) and [gaelforget.net](http://gaelforget.net). This page focuses on software and data products.
+My name is Gaël. I work as a reseach scientist at the Massachusetts Institute of Technology (MIT) on Oceans and Climate. For my published research, please refer to [google scholar](https://scholar.google.com/citations?user=QIWIDPMAAAAJ&hl=en) and [gaelforget.net](http://gaelforget.net). This page focuses on software and data products.
 
 | | History | +1C | +2C | +4C | |
 |:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|

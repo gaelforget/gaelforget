@@ -1,18 +1,7 @@
 ### Hi there 👋
 
 <!--
-**gaelforget/gaelforget** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+commenting out 🔭 🌱 👯 🤔 💬 📫 😄 ⚡
 -->
 
 My name is Gaël. I work as a reseach scientist at the Massachusetts Institute of Technology (MIT) where I investigate Oceans and Climate. For my published research work, please refer to [google scholar](https://scholar.google.com/citations?user=QIWIDPMAAAAJ&hl=en) and [gaelforget.net](http://gaelforget.net). This page focuses on software and data products.
@@ -27,16 +16,17 @@ My name is Gaël. I work as a reseach scientist at the Massachusetts Institute o
 
 🌱 The _JuliaClimate Notebooks_ cloud instance provides a convenient way to explore and try things out without having to install anything on your computer. The _JuliaClimate Notebooks_ webpage provides a listing and outline of notebooks with preview links.
 
-- [JuliaClimate Notebooks](https://juliaclimate.github.io/Notebooks/) : Climate and Ocean notebook lineup
-- JuliaClimate Notebooks [Binder](https://gesis.mybinder.org/v2/gh/JuliaClimate/Notebooks/HEAD?urlpath=lab) : open science cloud (free) 
+- JuliaClimate Notebook [webpage](https://juliaclimate.github.io/Notebooks/) : Climate and Ocean notebook lineup
+- JuliaClimate Notebooks [cloud](https://gesis.mybinder.org/v2/gh/JuliaClimate/Notebooks/HEAD?urlpath=lab) : open science cloud (free [mybinder](https://mybinder.readthedocs.io/en/latest/about/federation.html)) 
 
-✨ If you found this helpful, please consider giving the `JuliaClimate Notebooks` repository a [star](https://www.infracost.io/blog/github-stars-matter-here-is-why/).
+✨ If you found this helpful, please consider giving the _JuliaClimate Notebooks_ [repository](https://github.com/JuliaClimate/Notebooks) a [star](https://www.infracost.io/blog/github-stars-matter-here-is-why/).
 
 💬 If you find an issue or a bug please use the [issue tracker](https://docs.github.com/en/issues) indicated below.
 
-[![webpage](https://img.shields.io/badge/cloud_computer-blue.svg)]([https://gaelforget.github.io/ClimateModels.jl/dev](https://gesis.mybinder.org/v2/gh/JuliaClimate/Notebooks/HEAD?urlpath=lab)) [![cloud](https://img.shields.io/badge/cloud_computer-blue.svg)]([https://gaelforget.github.io/ClimateModels.jl/dev](https://gesis.mybinder.org/v2/gh/JuliaClimate/Notebooks/HEAD?urlpath=lab))
-[![GitHub stars](https://badgen.net/github/stars/JuliaClimate/GlobalOceanNotebooks)](https://GitHub.com/JuliaClimate/GlobalOceanNotebooks/stargazers/)
-[![issues](https://img.shields.io/badge/issue_tracker-blue.svg)](https://GitHub.com/JuliaClimate/GlobalOceanNotebooks/issues/)
+[![webpage](https://img.shields.io/badge/notebook_lineup-blue.svg)](https://juliaclimate.github.io/Notebooks/) 
+[![cloud](https://img.shields.io/badge/cloud_computer-blue.svg)](https://gesis.mybinder.org/v2/gh/JuliaClimate/Notebooks/HEAD?urlpath=lab) 
+[![issues](https://img.shields.io/badge/issue_tracker-blue.svg)](https://GitHub.com/JuliaClimate/Notebooks/issues/)
+[![GitHub stars](https://badgen.net/github/stars/JuliaClimate/Notebooks)](https://GitHub.com/JuliaClimate/Notebooks/stargazers/) 
 
 ## Software
 
@@ -101,4 +91,4 @@ My name is Gaël. I work as a reseach scientist at the Massachusetts Institute o
 </p>
 </details>
 
-😄 🚀
+😄 🚀 🙏

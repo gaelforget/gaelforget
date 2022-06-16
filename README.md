@@ -25,7 +25,7 @@ My name is Gaël. I work as a reseach scientist at the Massachusetts Institute o
 
 ## Notebooks
 
-🌱 The `JuliaClimate Notebooks` cloud instance provides a convenient way to explore and try things out without having to install anything on your computer. The `JuliaClimate Notebooks` webpage provides a listing and outline of notebooks with preview links.
+🌱 The _JuliaClimate Notebooks_ cloud instance provides a convenient way to explore and try things out without having to install anything on your computer. The _JuliaClimate Notebooks_ webpage provides a listing and outline of notebooks with preview links.
 
 - [JuliaClimate Notebooks](https://juliaclimate.github.io/Notebooks/) : Climate and Ocean notebook lineup
 - JuliaClimate Notebooks [Binder](https://gesis.mybinder.org/v2/gh/JuliaClimate/Notebooks/HEAD?urlpath=lab) : open science cloud (free) 

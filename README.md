@@ -6,6 +6,12 @@ commenting out 🔭 🌱 👯 🤔 💬 📫 😄 ⚡
 
 My name is Gaël. I work as a reseach scientist at the Massachusetts Institute of Technology (MIT) on Oceans and Climate. For my published research, please refer to [google scholar](https://scholar.google.com/citations?user=QIWIDPMAAAAJ&hl=en) and [gaelforget.net](http://gaelforget.net). This page focuses on software and data products.
 
+	<div style="display: inline-block">
+		<a href="https://github.com/gaelforget">
+		<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=gaelforget&include_all_commits=true&count_private=true&show_icons=true&theme=dark"/>
+		<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaelforget&layout=compact&count_private=true&show_icons=true&theme=dark"/>
+	</div>
+
 | | History | +1C | +2C | +4C | |
 |:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
 | <img src="https://github.com/JuliaClimate/meta/raw/master/docs/juliaclimatelogo.png" width="50" height="50"> | <img src="https://user-images.githubusercontent.com/20276764/143275888-ff02f149-225f-45ac-ae5e-1049e15ab215.png" width="100" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143275851-c165be3b-ca6e-44ab-bcd0-3598c04f2ab6.png" width="100" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143279553-41c0a2b7-081f-42f9-b285-c4166b81770e.png" width="100" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143278660-3dc6dbdf-e037-4de8-a976-d0a5a1b48e14.png" width="100" height="100"> | <img src="https://github.com/JuliaClimate/meta/raw/master/docs/juliaclimatelogo.png" width="50" height="50">

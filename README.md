@@ -92,8 +92,10 @@ My name is Gaël. I work as a reseach scientist at the Massachusetts Institute o
 </details>
 		
 ## 😄 🚀 🙏
-
-![](https://raw.githubusercontent.com/gaelforget/gaelforget/output/github-contribution-grid-snake.svg)
+  
+<details>
+ <summary> My Github Stats </summary>
+<p>
 
 <div style="display: inline-block">
 <a href="https://github.com/gaelforget">
@@ -101,3 +103,7 @@ My name is Gaël. I work as a reseach scientist at the Massachusetts Institute o
 <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaelforget&layout=compact&include_all_commits=true&count_private=true&show_icons=true&theme=dark"/>
 </div>
 
+</p>
+</details>
+
+![](https://raw.githubusercontent.com/gaelforget/gaelforget/output/github-contribution-grid-snake.svg)

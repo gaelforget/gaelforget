@@ -8,22 +8,9 @@ My name is Gaël. I work as a reseach scientist at the Massachusetts Institute o
 
 | | History | +1C | +2C | +4C | |
 |:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
-| <img src="https://github.com/JuliaClimate/meta/raw/master/docs/juliaclimatelogo.png" width="50" height="50"> | <img src="https://user-images.githubusercontent.com/20276764/143275888-ff02f149-225f-45ac-ae5e-1049e15ab215.png" width="100" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143275851-c165be3b-ca6e-44ab-bcd0-3598c04f2ab6.png" width="100" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143279553-41c0a2b7-081f-42f9-b285-c4166b81770e.png" width="100" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143278660-3dc6dbdf-e037-4de8-a976-d0a5a1b48e14.png" width="100" height="100"> | <img src="https://github.com/JuliaClimate/meta/raw/master/docs/juliaclimatelogo.png" width="50" height="50">
+| <img src="https://github.com/JuliaClimate/meta/raw/master/docs/juliaclimatelogo.png" width="50" height="50"> | <img src="https://user-images.githubusercontent.com/20276764/143275888-ff02f149-225f-45ac-ae5e-1049e15ab215.png" width="120" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143275851-c165be3b-ca6e-44ab-bcd0-3598c04f2ab6.png" width="120" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143279553-41c0a2b7-081f-42f9-b285-c4166b81770e.png" width="120" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143278660-3dc6dbdf-e037-4de8-a976-d0a5a1b48e14.png" width="120" height="100"> | <img src="https://github.com/JuliaClimate/meta/raw/master/docs/juliaclimatelogo.png" width="50" height="50">
 
 ⚡ _These graphs are from [one of the notebooks](https://gaelforget.github.io/ClimateModels.jl/dev/examples/IPCC.html); visit <https://interactive-atlas.ipcc.ch> for more on the science behind them._
-
-<details>
- <summary> My Github Stats </summary>
-<p>
-
-<div style="display: inline-block">
-<a href="https://github.com/gaelforget">
-<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=gaelforget&include_all_commits=true&count_private=true&show_icons=true&theme=dark"/>
-<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaelforget&layout=compact&include_all_commits=true&count_private=true&show_icons=true&theme=dark"/>
-</div>
-
-</p>
-</details>
 
 ## Notebooks
 
@@ -104,6 +91,13 @@ My name is Gaël. I work as a reseach scientist at the Massachusetts Institute o
 </p>
 </details>
 		
-😄 🚀 🙏
+## 😄 🚀 🙏
 
+![](https://raw.githubusercontent.com/gaelforget/gaelforget/output/github-contribution-grid-snake.svg)
+
+<div style="display: inline-block">
+<a href="https://github.com/gaelforget">
+<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=gaelforget&include_all_commits=true&count_private=true&show_icons=true&theme=dark"/>
+<img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaelforget&layout=compact&include_all_commits=true&count_private=true&show_icons=true&theme=dark"/>
+</div>
 

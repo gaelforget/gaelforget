@@ -92,10 +92,6 @@ My name is Gaël. I work as a reseach scientist at the Massachusetts Institute o
 </details>
 		
 ## 😄 🚀 🙏
-  
-<details>
- <summary> My Github Stats </summary>
-<p>
 
 <div style="display: inline-block">
 <a href="https://github.com/gaelforget">

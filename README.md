@@ -32,7 +32,7 @@ My name is Gaël. I work as a reseach scientist at the Massachusetts Institute o
 
 🔭 Open science projects that I have recently designed or contributed to are listed below (_unfold each category for detail_).
 
-<details>
+<details open>
  <summary> Data (Julia) </summary>
 <p>
 
@@ -45,7 +45,7 @@ My name is Gaël. I work as a reseach scientist at the Massachusetts Institute o
 </p>
 </details>
   
-<details>
+<details open>
  <summary> Modeling (Julia) </summary>
 <p>
 
@@ -90,7 +90,9 @@ My name is Gaël. I work as a reseach scientist at the Massachusetts Institute o
 
 </p>
 </details>
-		
+
+✨ If you found some of this helpful, please consider giving repositories a [star](https://www.infracost.io/blog/github-stars-matter-here-is-why/).
+
 ## 😄 🚀 🙏
 
 <div style="display: inline-block">

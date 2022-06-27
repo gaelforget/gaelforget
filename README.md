@@ -58,12 +58,13 @@ My name is Gaël. I work as a reseach scientist at the Massachusetts Institute o
 </p>
 </details>
   
-<details>
+<details open>
  <summary> Modeling (Other) </summary>
 <p>
 
 - [MITgcm](http://mitgcm.readthedocs.io/en/latest/?badge=latest) : _M.I.T. general circulation model_ master code and documentation [![GitHub stars](https://badgen.net/github/stars/MITgcm/MITgcm)](https://GitHub.com/MITgcm/MITgcm/stargazers/)
 - [ECCOv4](http://eccov4.readthedocs.io/) : Ocean state estimation framework, and model configuration [![GitHub stars](https://badgen.net/github/stars/gaelforget/ECCOv4)](https://GitHub.com/gaelforget/ECCOv4/stargazers/)
+- [ECCO-Docker](https://github.com/gaelforget/ECCO-Docker) : virtual machine to analyze and run ECCO solutions [![GitHub stars](https://badgen.net/github/stars/gaelforget/ECCO-Docker)](https://GitHub.com/gaelforget/ECCO-Docker/stargazers/)
 - [gcmfaces](http://gcmfaces.readthedocs.io/en/latest/) : _Matlab_ / _Octave_ toolbox that handles gridded Earth variables in generic fashion [![GitHub stars](https://badgen.net/github/stars/MITgcm/gcmfaces)](https://GitHub.com/MITgcm/gcmfaces/stargazers/)
 
 </p>

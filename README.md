@@ -45,7 +45,7 @@ My name is Gaël. I work as a reseach scientist at the Massachusetts Institute o
 </p>
 </details>
   
-<details open>
+<details>
  <summary> Modeling (Julia) </summary>
 <p>
 
@@ -58,7 +58,7 @@ My name is Gaël. I work as a reseach scientist at the Massachusetts Institute o
 </p>
 </details>
   
-<details open>
+<details>
  <summary> Modeling (Other) </summary>
 <p>
 

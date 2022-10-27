@@ -32,7 +32,7 @@ My name is Gaël. I work as a reseach scientist at the Massachusetts Institute o
 
 🔭 Open science projects that I have recently designed or contributed to are listed below (_unfold each category for detail_).
 
-<details>
+<details open>
  <summary> Data (Julia) </summary>
 <p>
 

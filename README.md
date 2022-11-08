@@ -21,11 +21,9 @@ My name is Gaël. I work as a reseach scientist at the Massachusetts Institute o
 
 ✨ If you found this helpful, please consider giving the _JuliaClimate Notebooks_ [repository](https://github.com/JuliaClimate/Notebooks) a [star](https://www.infracost.io/blog/github-stars-matter-here-is-why/).
 
-💬 If you find an issue or a bug please use the [issue tracker](https://docs.github.com/en/issues) indicated below.
+💬 If you find an issue or a bug please use the [issue tracker](https://docs.github.com/en/issues) below.
 
-[![cloud](https://img.shields.io/badge/cloud_computer-blue.svg)](https://gesis.mybinder.org/v2/gh/JuliaClimate/Notebooks/HEAD?urlpath=lab) 
-[![webpage](https://img.shields.io/badge/notebook_lineup-blue.svg)](https://juliaclimate.github.io/Notebooks/) 
-[![issues](https://img.shields.io/badge/issue_tracker-blue.svg)](https://GitHub.com/JuliaClimate/Notebooks/issues/)
+[![webpage](https://img.shields.io/badge/notebooks-blue.svg)](https://juliaclimate.github.io/Notebooks/) 
 [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/Notebooks)](https://GitHub.com/JuliaClimate/Notebooks/stargazers/) 
 
 ## Software

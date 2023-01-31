@@ -12,6 +12,10 @@ My name is Gaël. I work as a reseach scientist at the Massachusetts Institute o
 
 ⚡ _These graphs are from [one of the notebooks](https://gaelforget.github.io/ClimateModels.jl/dev/examples/IPCC.html); visit <https://interactive-atlas.ipcc.ch> for more on the science behind them._
 
+## News
+
+🛑 [JuliaEO-2023 Workshop](https://aircentre.github.io/JuliaEO/) 🛑 Global Workshop on Earth Observation with Julia. Notebooks and recording are available online. See [github](https://github.com/AIRCentre/JuliaEO/#readme) repo.
+
 ## Notebooks
 
 🌱 The _JuliaClimate Notebooks_ cloud instance provides a convenient way to explore and try things out without having to install anything on your computer. The _JuliaClimate Notebooks_ webpage provides a listing and outline of notebooks with preview links.

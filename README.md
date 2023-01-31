@@ -10,9 +10,11 @@ My name is Gaël. I work as a reseach scientist at the Massachusetts Institute o
 
 🛑 [JuliaEO-2023 Workshop](https://aircentre.github.io/JuliaEO/) 🛑 Global Workshop on Earth Observation with Julia. Notebooks and recording are available online. See [github](https://github.com/AIRCentre/JuliaEO/#readme) repo.
 
+## ...
+
 | | History | +1C | +2C | +4C | |
 |:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
-| <img src="https://github.com/JuliaClimate/meta/raw/master/docs/juliaclimatelogo.png" width="50" height="50"> | <img src="https://user-images.githubusercontent.com/20276764/143275888-ff02f149-225f-45ac-ae5e-1049e15ab215.png" width="120" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143275851-c165be3b-ca6e-44ab-bcd0-3598c04f2ab6.png" width="120" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143279553-41c0a2b7-081f-42f9-b285-c4166b81770e.png" width="120" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143278660-3dc6dbdf-e037-4de8-a976-d0a5a1b48e14.png" width="120" height="100"> | <img src="https://github.com/JuliaClimate/meta/raw/master/docs/juliaclimatelogo.png" width="50" height="50">
+| <a href="https://github.com/JuliaClimate"> <img src="https://avatars.githubusercontent.com/u/41747566?s=200&v=4" alt="JuliaClimate" style="width:50px;height:50px;"> </a> | <img src="https://user-images.githubusercontent.com/20276764/143275888-ff02f149-225f-45ac-ae5e-1049e15ab215.png" width="120" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143275851-c165be3b-ca6e-44ab-bcd0-3598c04f2ab6.png" width="120" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143279553-41c0a2b7-081f-42f9-b285-c4166b81770e.png" width="120" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143278660-3dc6dbdf-e037-4de8-a976-d0a5a1b48e14.png" width="120" height="100"> | <a href="https://github.com/JuliaOcean"> <img src="https://avatars.githubusercontent.com/u/41747359?s=200&v=4" alt="JuliaOcean" style="width:50px;height:50px;"> </a>
 
 ⚡ _These graphs are from [one of the notebooks](https://gaelforget.github.io/ClimateModels.jl/dev/examples/IPCC.html); visit <https://interactive-atlas.ipcc.ch> for more on the science behind them._
 

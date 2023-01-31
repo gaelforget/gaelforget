@@ -8,7 +8,11 @@ My name is Gaël. I work as a reseach scientist at the Massachusetts Institute o
 
 ## News
 
-🛑 [JuliaEO-2023 Workshop](https://aircentre.github.io/JuliaEO/) 🛑 Global Workshop on Earth Observation with Julia. Notebooks and recording are available online. See [github](https://github.com/AIRCentre/JuliaEO/#readme) repo.
+🛑 [JuliaEO-2023 Workshop](https://aircentre.github.io/JuliaEO/) 🛑 
+
+- Global Workshop on Earth Observation with Julia, 2023. 
+- Notebooks and recording are available online. 
+- See [github](https://github.com/AIRCentre/JuliaEO/#readme) repo.
 
 ## ...
 
@@ -75,11 +79,12 @@ My name is Gaël. I work as a reseach scientist at the Massachusetts Institute o
 </details>
   
 <details>
- <summary> Tutorials & Videos </summary>
+ <summary> More Videos & Tutorials </summary>
 <p>
 
-- [JuliaOceanSciencesMeeting2020](https://github.com/JuliaOcean/JuliaOceanSciencesMeeting2020) workshop : Julia users and tools for oceanography (OSM20 workshop)  [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/JuliaOceanSciencesMeeting2020)](https://GitHub.com/JuliaOcean/JuliaOceanSciencesMeeting2020/stargazers/)
+- [JuliaEO-2023 Workshop](https://aircentre.github.io/JuliaEO/) : Global Workshop on Earth Observation with Julia, 2023. 
 - [MarineEcosystemsJuliaCon2021](https://github.com/JuliaOcean/MarineEcosystemsJuliaCon2021.jl) workshop : modeling marine ecosystems at multiple scales using Julia (JuliaCon21 workshop) [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/MarineEcosystemsJuliaCon2021.jl)](https://GitHub.com/JuliaOcean/MarineEcosystemsJuliaCon2021.jl/stargazers/)
+- [JuliaOceanSciencesMeeting2020](https://github.com/JuliaOcean/JuliaOceanSciencesMeeting2020) workshop : Julia users and tools for oceanography (OSM20 workshop)  [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/JuliaOceanSciencesMeeting2020)](https://GitHub.com/JuliaOcean/JuliaOceanSciencesMeeting2020/stargazers/)
 - [MarineEcosystemNotebooks](https://github.com/JuliaOcean/MarineEcosystemNotebooks) : marine ecosystem observations and models [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/MarineEcosystemNotebooks)](https://GitHub.com/JuliaOcean/MarineEcosystemNotebooks/stargazers/)
 
 </p>

@@ -6,30 +6,16 @@ commenting out 🔭 🌱 👯 🤔 💬 📫 😄 ⚡
 
 My name is Gaël. I work as a reseach scientist at the Massachusetts Institute of Technology (MIT) on Oceans and Climate. For my published research, please refer to [google scholar](https://scholar.google.com/citations?user=QIWIDPMAAAAJ&hl=en) and [gaelforget.net](http://gaelforget.net). This page focuses on software and data products.
 
-## News
-
-🛑 [JuliaEO-2023 Workshop](https://aircentre.github.io/JuliaEO/) 🛑 
-
-- Global Workshop on Earth Observation with Julia, 2023. 
-- Notebooks and recording are available online. 
-- See [github](https://github.com/AIRCentre/JuliaEO/#readme) repo.
-
-## ...
-
 | | History | +1C | +2C | +4C | |
 |:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
 | <a href="https://github.com/JuliaClimate"> <img src="https://avatars.githubusercontent.com/u/41747566?s=200&v=4" alt="JuliaClimate" style="width:50px;height:50px;"> </a> | <img src="https://user-images.githubusercontent.com/20276764/143275888-ff02f149-225f-45ac-ae5e-1049e15ab215.png" width="120" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143275851-c165be3b-ca6e-44ab-bcd0-3598c04f2ab6.png" width="120" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143279553-41c0a2b7-081f-42f9-b285-c4166b81770e.png" width="120" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143278660-3dc6dbdf-e037-4de8-a976-d0a5a1b48e14.png" width="120" height="100"> | <a href="https://github.com/JuliaOcean"> <img src="https://avatars.githubusercontent.com/u/41747359?s=200&v=4" alt="JuliaOcean" style="width:50px;height:50px;"> </a>
 
-⚡ _These graphs are from [one of the notebooks](https://gaelforget.github.io/ClimateModels.jl/dev/examples/IPCC.html); visit <https://interactive-atlas.ipcc.ch> for more on the science behind them._
-
-## Notebooks
-
-🌱 The _JuliaClimate Notebooks_ cloud instance provides a convenient way to explore and try things out without having to install anything on your computer. The _JuliaClimate Notebooks_ webpage provides a listing and outline of notebooks with preview links.
+🌱 The _JuliaClimate Notebooks_ webpage provides a listing and outline of notebooks with preview links for some of my research. It includes a computer environment that lets you explore notebooks and try things out with all needed software preinstalled. 
 
 - JuliaClimate Notebook [webpage](https://juliaclimate.github.io/Notebooks/) : Climate and Ocean notebook lineup
-- JuliaClimate Notebooks [cloud](https://gesis.mybinder.org/v2/gh/JuliaClimate/Notebooks/HEAD?urlpath=lab) : open science cloud (free [mybinder](https://mybinder.readthedocs.io/en/latest/about/federation.html)) 
+- JuliaClimate Notebooks [cloud](https://mybinder.org/v2/gh/JuliaClimate/Notebooks/HEAD?urlpath=lab) : open science cloud (free [mybinder](https://mybinder.readthedocs.io/en/latest/about/federation.html)) 
 
-✨ If you found this helpful, please consider giving the _JuliaClimate Notebooks_ [repository](https://github.com/JuliaClimate/Notebooks) a [star](https://www.infracost.io/blog/github-stars-matter-here-is-why/).
+✨ If you found this useful, please consider giving the _JuliaClimate Notebooks_ [repository](https://github.com/JuliaClimate/Notebooks) a [star](https://www.infracost.io/blog/github-stars-matter-here-is-why/).
 
 💬 If you find an issue or a bug please use the [issue tracker](https://docs.github.com/en/issues) below.
 
@@ -40,7 +26,7 @@ My name is Gaël. I work as a reseach scientist at the Massachusetts Institute o
 
 🔭 Open science projects that I have recently designed or contributed to are listed below (_unfold each category for detail_).
 
-<details>
+<details open>
  <summary> Data (Julia) </summary>
 <p>
 
@@ -49,6 +35,7 @@ My name is Gaël. I work as a reseach scientist at the Massachusetts Institute o
 - [ArgoData.jl](https://github.com/euroargodev/ArgoData.jl#readme) [📖](https://euroargodev.github.io/ArgoData.jl/dev/) : Argo data processing and analysis [![GitHub stars](https://badgen.net/github/stars/euroargodev/ArgoData.jl)](https://GitHub.com/euroargodev/ArgoData.jl/stargazers/)
 - [OceanColorData.jl](https://github.com/JuliaOcean/OceanColorData.jl) [📖](https://gaelforget.github.io/OceanColorData.jl/dev/) : Ocean color data processing and analysis [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/OceanColorData.jl)](https://GitHub.com/JuliaOcean/OceanColorData.jl/stargazers/)
 - [OceanStateEstimation.jl](https://github.com/gaelforget/OceanStateEstimation.jl#readme) [📖](https://gaelforget.github.io/OceanStateEstimation.jl/dev/) : downloading, reading, displaying, and analyzing ocean state estimates [![GitHub stars](https://badgen.net/github/stars/gaelforget/OceanStateEstimation.jl)](https://GitHub.com/gaelforget/OceanStateEstimation.jl/stargazers/)
+- [MarineEcosystemNotebooks](https://github.com/JuliaOcean/MarineEcosystemNotebooks) : marine ecosystem observations and models [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/MarineEcosystemNotebooks)](https://GitHub.com/JuliaOcean/MarineEcosystemNotebooks/stargazers/)
 
 </p>
 </details>
@@ -66,7 +53,7 @@ My name is Gaël. I work as a reseach scientist at the Massachusetts Institute o
 </p>
 </details>
   
-<details>
+<details open>
  <summary> Modeling (Other) </summary>
 <p>
 
@@ -78,14 +65,14 @@ My name is Gaël. I work as a reseach scientist at the Massachusetts Institute o
 </p>
 </details>
   
-<details>
- <summary> More Videos & Tutorials </summary>
+<details open>
+ <summary> Videos & Tutorials </summary>
 <p>
 
+- [ESA 2023 training course](https://www.trevorfoundation.org/symposium/training-course-tpsf-symposium-2023) : Ocean Color and Earth Observation with Julia, 2023.
 - [JuliaEO-2023 Workshop](https://aircentre.github.io/JuliaEO/) : Global Workshop on Earth Observation with Julia, 2023. 
-- [MarineEcosystemsJuliaCon2021](https://github.com/JuliaOcean/MarineEcosystemsJuliaCon2021.jl) workshop : modeling marine ecosystems at multiple scales using Julia (JuliaCon21 workshop) [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/MarineEcosystemsJuliaCon2021.jl)](https://GitHub.com/JuliaOcean/MarineEcosystemsJuliaCon2021.jl/stargazers/)
-- [JuliaOceanSciencesMeeting2020](https://github.com/JuliaOcean/JuliaOceanSciencesMeeting2020) workshop : Julia users and tools for oceanography (OSM20 workshop)  [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/JuliaOceanSciencesMeeting2020)](https://GitHub.com/JuliaOcean/JuliaOceanSciencesMeeting2020/stargazers/)
-- [MarineEcosystemNotebooks](https://github.com/JuliaOcean/MarineEcosystemNotebooks) : marine ecosystem observations and models [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/MarineEcosystemNotebooks)](https://GitHub.com/JuliaOcean/MarineEcosystemNotebooks/stargazers/)
+- [MarineEcosystemsJuliaCon2021](https://github.com/JuliaOcean/MarineEcosystemsJuliaCon2021.jl) : modeling marine ecosystems at multiple scales using Julia (JuliaCon21 workshop) [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/MarineEcosystemsJuliaCon2021.jl)](https://GitHub.com/JuliaOcean/MarineEcosystemsJuliaCon2021.jl/stargazers/)
+- [JuliaOceanSciencesMeeting2020](https://github.com/JuliaOcean/JuliaOceanSciencesMeeting2020) Julia users and tools for oceanography (OSM20 workshop)  [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/JuliaOceanSciencesMeeting2020)](https://GitHub.com/JuliaOcean/JuliaOceanSciencesMeeting2020/stargazers/)
 
 </p>
 </details>

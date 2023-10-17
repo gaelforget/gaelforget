@@ -69,7 +69,7 @@ My name is Gaël. I work as a reseach scientist at the Massachusetts Institute o
  <summary> Videos & Tutorials </summary>
 <p>
 
-- [ESA 2023 training course](https://www.trevorfoundation.org/symposium/training-course-tpsf-symposium-2023) : Ocean Color and Earth Observation with Julia, 2023.
+- [ESA 2023 training course](https://youtu.be/BT0lA_59jAU?si=ATTEeEgiSjpaZssD) : Ocean Color and Earth Observation with Julia, 2023.
 - [JuliaEO-2023 Workshop](https://aircentre.github.io/JuliaEO/) : Global Workshop on Earth Observation with Julia, 2023. 
 - [MarineEcosystemsJuliaCon2021](https://github.com/JuliaOcean/MarineEcosystemsJuliaCon2021.jl) : modeling marine ecosystems at multiple scales using Julia (JuliaCon21 workshop) [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/MarineEcosystemsJuliaCon2021.jl)](https://GitHub.com/JuliaOcean/MarineEcosystemsJuliaCon2021.jl/stargazers/)
 - [JuliaOceanSciencesMeeting2020](https://github.com/JuliaOcean/JuliaOceanSciencesMeeting2020) Julia users and tools for oceanography (OSM20 workshop)  [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/JuliaOceanSciencesMeeting2020)](https://GitHub.com/JuliaOcean/JuliaOceanSciencesMeeting2020/stargazers/)

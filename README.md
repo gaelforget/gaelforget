@@ -4,11 +4,7 @@
 commenting out 🔭 🌱 👯 🤔 💬 📫 😄 ⚡
 -->
 
-My name is Gaël. 
-
-This page focuses on software and datasets linked to my work as a research scientist at the Massachusetts Institute of Technology (MIT). 
-
-My reseach is focused on Oceans and Climate -- see my [scholar](https://scholar.google.com/citations?user=QIWIDPMAAAAJ&hl=en) profile and [gaelforget.net](http://gaelforget.net). 
+My name is Gaël. This page focuses on software and datasets linked to my work as a research scientist at the Massachusetts Institute of Technology (MIT). For more on my reseach on Oceans and Climate see [scholar profile](https://scholar.google.com/citations?user=QIWIDPMAAAAJ&hl=en) and [gaelforget.net](http://gaelforget.net). 
 
 | | History | +1C | +2C | +4C | |
 |:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
@@ -18,9 +14,17 @@ My reseach is focused on Oceans and Climate -- see my [scholar](https://scholar.
 
 💬 If you find an issue or a bug please use the [issue tracker](https://docs.github.com/en/issues) below.
 
-🌱 _JuliaClimate Notebooks_ provides links to notebooks and a computer environment to try out notebooks. 
+## Software
 
-🌱 More notebooks are found in the documentation of software packages listed below. 
+🔭 _unfold each category for detail_
+
+🌱 Notebooks are in the docs of each software package
+
+<details>
+ <summary> Data (Julia) </summary>
+<p>
+
+_JuliaClimate Notebooks_ provides links to notebooks and a computer environment to try out notebooks. 
 
 - JuliaClimate Notebooks [webpage](https://juliaclimate.github.io/Notebooks/) : links to Climate and Ocean notebooks
 - JuliaClimate Notebooks [cloud](https://mybinder.org/v2/gh/JuliaClimate/Notebooks/HEAD?urlpath=lab) : open science cloud (free [mybinder](https://mybinder.readthedocs.io/en/latest/about/federation.html)) 
@@ -28,9 +32,10 @@ My reseach is focused on Oceans and Climate -- see my [scholar](https://scholar.
 [![webpage](https://img.shields.io/badge/notebooks-blue.svg)](https://juliaclimate.github.io/Notebooks/) 
 [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/Notebooks)](https://GitHub.com/JuliaClimate/Notebooks/stargazers/) 
 
-## Software
+</p>
+</details>
 
-🔭 Open science projects that I have recently designed or contributed to are listed below (_unfold each category for detail_).
+#
 
 <details>
  <summary> Data (Julia) </summary>

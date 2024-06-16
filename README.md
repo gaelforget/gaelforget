@@ -15,21 +15,6 @@ My name is Gaël. This page focuses on software and datasets linked to my work a
 🔭 _Unfold each category for detail_
 
 <details>
- <summary> Notebooks (Julia) </summary>
-<p>
-
-_JuliaClimate Notebooks_ provides links to notebooks and a computer environment to try out notebooks. 
-
-- JuliaClimate Notebooks [webpage](https://juliaclimate.github.io/Notebooks/) : links to Climate and Ocean notebooks
-- JuliaClimate Notebooks [cloud](https://mybinder.org/v2/gh/JuliaClimate/Notebooks/HEAD?urlpath=lab) : open science cloud (free [mybinder](https://mybinder.readthedocs.io/en/latest/about/federation.html)) 
-
-[![webpage](https://img.shields.io/badge/notebooks-blue.svg)](https://juliaclimate.github.io/Notebooks/) 
-[![GitHub stars](https://badgen.net/github/stars/JuliaClimate/Notebooks)](https://GitHub.com/JuliaClimate/Notebooks/stargazers/) 
-
-</p>
-</details>
-
-<details>
  <summary> Data (Julia) </summary>
 <p>
 
@@ -68,9 +53,24 @@ _JuliaClimate Notebooks_ provides links to notebooks and a computer environment 
 
 </p>
 </details>
-  
+
 <details>
- <summary> Videos & Tutorials </summary>
+ <summary> Notebooks (Julia) </summary>
+<p>
+
+🔭 For most notebooks, look in the docs of the listed github repositories
+
+🔭 JuliaClimate Notebooks [webpage](https://juliaclimate.github.io/Notebooks/) : links to Climate and Ocean notebooks 
+[![GitHub stars](https://badgen.net/github/stars/JuliaClimate/Notebooks)](https://GitHub.com/JuliaClimate/Notebooks/stargazers/) 
+
+🔭 JuliaClimate Notebooks [cloud](https://mybinder.org/v2/gh/JuliaClimate/Notebooks/HEAD?urlpath=lab) : open free science cloud, from [mybinder](https://mybinder.readthedocs.io/en/latest/about/federation.html) [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/Notebooks)](https://GitHub.com/JuliaClimate/Notebooks/stargazers/) 
+
+
+</p>
+</details>
+
+<details>
+ <summary> Training (Video) </summary>
 <p>
 
 - [ESA 2023 training course](https://youtu.be/BT0lA_59jAU?si=ATTEeEgiSjpaZssD) : Ocean Color and Earth Observation with Julia, 2023.
@@ -95,8 +95,6 @@ _JuliaClimate Notebooks_ provides links to notebooks and a computer environment 
 #
 
 🌱 For my research on Oceans and Climate, see [scholar](https://scholar.google.com/citations?user=QIWIDPMAAAAJ&hl=en) and [gaelforget.net](http://gaelforget.net)
-
-🔭 For more notebooks, look in the docs of each github repository
 
 💬 To report an issues and bugs, please use the [issue tracker](https://docs.github.com/en/issues)s
 

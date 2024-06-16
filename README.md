@@ -6,7 +6,11 @@ commenting out 🔭 🌱 👯 🤔 💬 📫 😄 ⚡
 
 My name is Gaël. This page focuses on software and datasets linked to my work as a research scientist at MIT. 
 
-# 😄 🚀 🙏
+| | History | +1C | +2C | +4C | |
+|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
+| <a href="https://github.com/JuliaClimate"> <img src="https://avatars.githubusercontent.com/u/41747566?s=200&v=4" alt="JuliaClimate" style="width:50px;height:50px;"> </a> | <img src="https://user-images.githubusercontent.com/20276764/143275888-ff02f149-225f-45ac-ae5e-1049e15ab215.png" width="120" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143275851-c165be3b-ca6e-44ab-bcd0-3598c04f2ab6.png" width="120" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143279553-41c0a2b7-081f-42f9-b285-c4166b81770e.png" width="120" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143278660-3dc6dbdf-e037-4de8-a976-d0a5a1b48e14.png" width="120" height="100"> | <a href="https://github.com/JuliaOcean"> <img src="https://avatars.githubusercontent.com/u/41747359?s=200&v=4" alt="JuliaOcean" style="width:50px;height:50px;"> </a>
+
+#
 
 🔭 _Unfold each category for detail_
 
@@ -90,21 +94,15 @@ _JuliaClimate Notebooks_ provides links to notebooks and a computer environment 
 
 #
 
-| | History | +1C | +2C | +4C | |
-|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
-| <a href="https://github.com/JuliaClimate"> <img src="https://avatars.githubusercontent.com/u/41747566?s=200&v=4" alt="JuliaClimate" style="width:50px;height:50px;"> </a> | <img src="https://user-images.githubusercontent.com/20276764/143275888-ff02f149-225f-45ac-ae5e-1049e15ab215.png" width="120" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143275851-c165be3b-ca6e-44ab-bcd0-3598c04f2ab6.png" width="120" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143279553-41c0a2b7-081f-42f9-b285-c4166b81770e.png" width="120" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143278660-3dc6dbdf-e037-4de8-a976-d0a5a1b48e14.png" width="120" height="100"> | <a href="https://github.com/JuliaOcean"> <img src="https://avatars.githubusercontent.com/u/41747359?s=200&v=4" alt="JuliaOcean" style="width:50px;height:50px;"> </a>
+🌱 For my research on Oceans and Climate, see [scholar](https://scholar.google.com/citations?user=QIWIDPMAAAAJ&hl=en) and [gaelforget.net](http://gaelforget.net)
 
-#
-
-🌱 For more on my Oceans and Climate reseach, see [scholar profile](https://scholar.google.com/citations?user=QIWIDPMAAAAJ&hl=en) and [gaelforget.net](http://gaelforget.net). 
+🔭 For more notebooks, look in the docs of each github repository
 
 💬 To report an issues and bugs, please use the [issue tracker](https://docs.github.com/en/issues)s
 
-✨ If somthing is helpful, please consider giving adding [star](https://www.infracost.io/blog/github-stars-matter-here-is-why/)s
+✨ If something is helpful, please consider giving adding [star](https://www.infracost.io/blog/github-stars-matter-here-is-why/)s
 
-🔭 For notebooks, look in the docs
-
-#
+## 😄 🙏 ⚡ 🚀
 
 <div style="display: inline-block">
 <a href="https://github.com/gaelforget">

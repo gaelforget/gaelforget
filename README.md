@@ -35,7 +35,7 @@ My name is Gaël. I work as a reseach scientist at the Massachusetts Institute o
 - [ArgoData.jl](https://github.com/euroargodev/ArgoData.jl#readme) [📖](https://euroargodev.github.io/ArgoData.jl/dev/) : Argo data processing and analysis [![GitHub stars](https://badgen.net/github/stars/euroargodev/ArgoData.jl)](https://GitHub.com/euroargodev/ArgoData.jl/stargazers/)
 - [OceanColorData.jl](https://github.com/JuliaOcean/OceanColorData.jl) [📖](https://juliaocean.github.io/OceanColorData.jl/dev/) : Ocean color data processing and analysis [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/OceanColorData.jl)](https://GitHub.com/JuliaOcean/OceanColorData.jl/stargazers/)
 - [MarineEcosystemNotebooks](https://github.com/JuliaOcean/MarineEcosystemNotebooks) : marine ecosystem observations and models [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/MarineEcosystemNotebooks)](https://GitHub.com/JuliaOcean/MarineEcosystemNotebooks/stargazers/)
-- [OceanStateEstimation.jl](https://github.com/juliaocean/OceanStateEstimation.jl#readme) [📖](https://JuliaOcean.github.io/OceanStateEstimation.jl/dev/) : downloading, reading, displaying, and analyzing ocean state estimates [![GitHub stars](https://badgen.net/github/stars/gaelforget/OceanStateEstimation.jl)](https://GitHub.com/juliaocean/OceanStateEstimation.jl/stargazers/)
+- [Climatology.jl](https://github.com/juliaocean/Climatology.jl#readme) [📖](https://JuliaOcean.github.io/Climatology.jl/dev/) : downloading, reading, displaying, and analyzing ocean state estimates [![GitHub stars](https://badgen.net/github/stars/gaelforget/Climatology.jl)](https://GitHub.com/juliaocean/OceanStateEstimation.jl/stargazers/)
 
 </p>
 </details>

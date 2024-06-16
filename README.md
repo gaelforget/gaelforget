@@ -4,24 +4,14 @@
 commenting out 🔭 🌱 👯 🤔 💬 📫 😄 ⚡
 -->
 
-My name is Gaël. This page focuses on software and datasets linked to my work as a research scientist at the Massachusetts Institute of Technology (MIT). For more on my reseach on Oceans and Climate see [scholar profile](https://scholar.google.com/citations?user=QIWIDPMAAAAJ&hl=en) and [gaelforget.net](http://gaelforget.net). 
+My name is Gaël. This page focuses on software and datasets linked to my work as a research scientist at MIT. 
 
-| | History | +1C | +2C | +4C | |
-|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
-| <a href="https://github.com/JuliaClimate"> <img src="https://avatars.githubusercontent.com/u/41747566?s=200&v=4" alt="JuliaClimate" style="width:50px;height:50px;"> </a> | <img src="https://user-images.githubusercontent.com/20276764/143275888-ff02f149-225f-45ac-ae5e-1049e15ab215.png" width="120" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143275851-c165be3b-ca6e-44ab-bcd0-3598c04f2ab6.png" width="120" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143279553-41c0a2b7-081f-42f9-b285-c4166b81770e.png" width="120" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143278660-3dc6dbdf-e037-4de8-a976-d0a5a1b48e14.png" width="120" height="100"> | <a href="https://github.com/JuliaOcean"> <img src="https://avatars.githubusercontent.com/u/41747359?s=200&v=4" alt="JuliaOcean" style="width:50px;height:50px;"> </a>
+# 😄 🚀 🙏
 
-✨ If a repo is helpful to you, please consider giving it a [star](https://www.infracost.io/blog/github-stars-matter-here-is-why/).
-
-💬 If you find an issue or a bug please use the [issue tracker](https://docs.github.com/en/issues) below.
-
-## Software
-
-🔭 _unfold each category for detail_
-
-🌱 Notebooks are in the docs of each software package
+🔭 _Unfold each category for detail_
 
 <details>
- <summary> Data (Julia) </summary>
+ <summary> Notebooks (Julia) </summary>
 <p>
 
 _JuliaClimate Notebooks_ provides links to notebooks and a computer environment to try out notebooks. 
@@ -35,8 +25,6 @@ _JuliaClimate Notebooks_ provides links to notebooks and a computer environment 
 </p>
 </details>
 
-#
-
 <details>
  <summary> Data (Julia) </summary>
 <p>
@@ -47,12 +35,13 @@ _JuliaClimate Notebooks_ provides links to notebooks and a computer environment 
 - [OceanColorData.jl](https://github.com/JuliaOcean/OceanColorData.jl) [📖](https://juliaocean.github.io/OceanColorData.jl/dev/) : Ocean color data processing and analysis [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/OceanColorData.jl)](https://GitHub.com/JuliaOcean/OceanColorData.jl/stargazers/)
 - [Marine Ecosystems](https://github.com/JuliaOcean/MarineEcosystemNotebooks) : marine ecosystem observations and models [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/MarineEcosystemNotebooks)](https://GitHub.com/JuliaOcean/MarineEcosystemNotebooks/stargazers/)
 - [Dataverse.jl](https://github.com/gdcc/Dataverse.jl#readme) [📖](https://gdcc.github.io/Dataverse.jl/dev/) : interfaces to [Dataverse](https://dataverse.org/) APIs, collections, datasets, etc  [![GitHub stars](https://badgen.net/github/stars/gdcc/Dataverse.jl)](https://GitHub.com/gaelforget/Dataverse.jl/stargazers/)
+#
 
 </p>
 </details>
   
 <details>
- <summary> Modeling (Julia) </summary>
+ <summary> Models (Julia) </summary>
 <p>
 
 - [ClimateModels.jl](https://github.com/gaelforget/ClimateModels.jl#readme) [📖](https://gaelforget.github.io/ClimateModels.jl/dev/) : uniform interface to climate models of varying complexity and completeness [![GitHub stars](https://badgen.net/github/stars/gaelforget/ClimateModels.jl)](https://GitHub.com/gaelforget/ClimateModels.jl/stargazers/)
@@ -65,7 +54,7 @@ _JuliaClimate Notebooks_ provides links to notebooks and a computer environment 
 </details>
   
 <details>
- <summary> Modeling (Other) </summary>
+ <summary> Models (Other) </summary>
 <p>
 
 - [MITgcm](https://github.com/MITgcm/MITgcm#readme) [📖](http://mitgcm.readthedocs.io/en/latest/?badge=latest) : _M.I.T. general circulation model_ master code and documentation [![GitHub stars](https://badgen.net/github/stars/MITgcm/MITgcm)](https://GitHub.com/MITgcm/MITgcm/stargazers/)
@@ -89,7 +78,7 @@ _JuliaClimate Notebooks_ provides links to notebooks and a computer environment 
 </details>
   
 <details>
- <summary> Various </summary>
+ <summary> More </summary>
 <p>
 
 - [TheNumberLine.jl](https://github.com/gaelforget/TheNumberLine.jl) [📖](https://gaelforget.github.io/TheNumberLine.jl/dev/) : K-12 teaching collaborative project. The number line is a common teaching tool in e.g. K-12 math classes accross the U.S. [![GitHub stars](https://badgen.net/github/stars/gaelforget/TheNumberLine.jl)](https://GitHub.com/gaelforget/TheNumberLine.jl/stargazers/)
@@ -99,7 +88,23 @@ _JuliaClimate Notebooks_ provides links to notebooks and a computer environment 
 </p>
 </details>
 
-## 😄 🚀 🙏
+#
+
+| | History | +1C | +2C | +4C | |
+|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
+| <a href="https://github.com/JuliaClimate"> <img src="https://avatars.githubusercontent.com/u/41747566?s=200&v=4" alt="JuliaClimate" style="width:50px;height:50px;"> </a> | <img src="https://user-images.githubusercontent.com/20276764/143275888-ff02f149-225f-45ac-ae5e-1049e15ab215.png" width="120" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143275851-c165be3b-ca6e-44ab-bcd0-3598c04f2ab6.png" width="120" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143279553-41c0a2b7-081f-42f9-b285-c4166b81770e.png" width="120" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143278660-3dc6dbdf-e037-4de8-a976-d0a5a1b48e14.png" width="120" height="100"> | <a href="https://github.com/JuliaOcean"> <img src="https://avatars.githubusercontent.com/u/41747359?s=200&v=4" alt="JuliaOcean" style="width:50px;height:50px;"> </a>
+
+#
+
+🌱 For more on my Oceans and Climate reseach, see [scholar profile](https://scholar.google.com/citations?user=QIWIDPMAAAAJ&hl=en) and [gaelforget.net](http://gaelforget.net). 
+
+💬 To report an issues and bugs, please use the [issue tracker](https://docs.github.com/en/issues)s
+
+✨ If somthing is helpful, please consider giving adding [star](https://www.infracost.io/blog/github-stars-matter-here-is-why/)s
+
+🔭 For notebooks, look in the docs
+
+#
 
 <div style="display: inline-block">
 <a href="https://github.com/gaelforget">

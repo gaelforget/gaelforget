@@ -14,7 +14,7 @@ My name is Gaël. This page focuses on software and datasets linked to my work a
 
 🔭 _Unfold each category for detail_
 
-<details>
+<details open>
  <summary> Data (Julia) </summary>
 <p>
 
@@ -29,7 +29,7 @@ My name is Gaël. This page focuses on software and datasets linked to my work a
 </p>
 </details>
   
-<details>
+<details open>
  <summary> Models (Julia) </summary>
 <p>
 

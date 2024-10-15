@@ -93,6 +93,7 @@ My name is Gaël. This page focuses on software and datasets linked to my work a
 - [JuliaEO-2023 Workshop](https://aircentre.github.io/JuliaEO/) : Global Workshop on Earth Observation with Julia, 2023. 
 - [MarineEcosystemsJuliaCon2021](https://github.com/JuliaOcean/MarineEcosystemsJuliaCon2021.jl) : modeling marine ecosystems at multiple scales using Julia (JuliaCon21 workshop) [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/MarineEcosystemsJuliaCon2021.jl)](https://GitHub.com/JuliaOcean/MarineEcosystemsJuliaCon2021.jl/stargazers/)
 - [JuliaOceanSciencesMeeting2020](https://github.com/JuliaOcean/JuliaOceanSciencesMeeting2020) Julia users and tools for oceanography (OSM20 workshop)  [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/JuliaOceanSciencesMeeting2020)](https://GitHub.com/JuliaOcean/JuliaOceanSciencesMeeting2020/stargazers/)
+- [ECCO-Hackweek-2024](https://github.com/ECCO-Hackweek/ecco-2024) One week event, at Caltech, focused on applied and hands-on learning and orgnaized by the ECCO community. 
 
 </p>
 </details>

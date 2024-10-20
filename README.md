@@ -86,8 +86,8 @@ My name is Gaël. This page focuses on software and datasets linked to my work a
 </p>
 </details>
 
-<details>
- <summary> Training (Video) </summary>
+<details open>
+ <summary> Training (Notebooks, Recordings) </summary>
 <p>
 
 - [ECCO-Hackweek-2024](https://github.com/ECCO-Hackweek/ecco-2024) One week event, at Caltech, focused on applied and hands-on learning and orgnaized by the ECCO community. 

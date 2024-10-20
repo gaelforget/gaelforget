@@ -90,7 +90,7 @@ My name is Gaël. This page focuses on software and datasets linked to my work a
  <summary> Training (Notebooks, Recordings) </summary>
 <p>
 
-- [ECCO-Hackweek-2024](https://github.com/ECCO-Hackweek/ecco-2024) One week event, at Caltech, focused on applied and hands-on learning and orgnaized by the ECCO community. 
+- [ECCO-Hackweek-2024](https://github.com/ECCO-Hackweek/ecco-2024) applied, project-based, and hands-on learning with the ECCO community. 
 - [ESA 2023 training course](https://youtu.be/BT0lA_59jAU?si=ATTEeEgiSjpaZssD) : Ocean Color and Earth Observation with Julia, 2023.
 - [JuliaEO-2023 Workshop](https://aircentre.github.io/JuliaEO/) : Global Workshop on Earth Observation with Julia, 2023. 
 - [MarineEcosystemsJuliaCon2021](https://github.com/JuliaOcean/MarineEcosystemsJuliaCon2021.jl) : modeling marine ecosystems at multiple scales using Julia (JuliaCon21 workshop)

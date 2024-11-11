@@ -53,7 +53,7 @@ My name is Gaël. This page focuses on software and datasets linked to my work a
 <p>
 
 - [ECCO.jl](https://github.com/gaelforget/ECCO.jl#readme) [📖](https://gaelforget.github.io/ECCO.jl/dev/) : package enables with automatic differentiation and optimization packages [![GitHub stars](https://badgen.net/github/stars/gaelforget/ECCO.jl)](https://GitHub.com/gaelforget/ECCO.jl/stargazers/)
-- [IndividualDisplacements.jl](https://github.com/juliaclimate/IndividualDisplacements.jl#readme) [📖](https://juliaclimate.github.io/IndividualDisplacements.jl/dev/) : trajectory simulations for point particles in the Ocean and Atmosphere [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/IndividualDisplacements.jl)](https://GitHub.com/JuliaClimate/IndividualDisplacements.jl/stargazers/)
+- [Drifters.jl](https://github.com/juliaclimate/Drifters.jl#readme) [📖](https://juliaclimate.github.io/Drifters.jl/dev/) : trajectory simulations for point particles in the Ocean and Atmosphere [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/Drifters.jl)](https://GitHub.com/JuliaClimate/Drifters.jl/stargazers/)
 - [PlanktonIndividuals.jl](https://github.com/juliaocean/PlanktonIndividuals.jl#readme) [📖](https://juliaocean.github.io/PlanktonIndividuals.jl/dev/) : simulation of plankton communities and their interaction with environmental factors [![GitHub stars](https://badgen.net/github/stars/JuliaOcean/PlanktonIndividuals.jl)](https://GitHub.com/JuliaOcean/PlanktonIndividuals.jl/stargazers/)
 
 </p>
